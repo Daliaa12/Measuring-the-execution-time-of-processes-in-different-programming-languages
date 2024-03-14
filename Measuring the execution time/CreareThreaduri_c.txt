@@ -1,0 +1,5 @@
+C
+- Masurarea alocarii unui sir cu 5000 thread-uri -
+
+Media 0.003374 secunde
+

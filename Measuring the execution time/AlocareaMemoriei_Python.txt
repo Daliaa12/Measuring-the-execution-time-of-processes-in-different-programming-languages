@@ -1,0 +1,4 @@
+Python
+Masurarea alocarii unui sir cu 100000 intregi 
+
+=> 0.011441 secunde

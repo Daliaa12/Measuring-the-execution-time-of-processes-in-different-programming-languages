@@ -1,0 +1,9 @@
+C
+ Masurarea accesului la memorie a unui sir cu 100000 intregi 
+
+Sir static
+Media 0.000402 secunde
+
+
+Sir dinamic
+Media 0.000406 secunde

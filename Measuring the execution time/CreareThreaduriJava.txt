@@ -1,0 +1,4 @@
+Java
+Masurarea alocarii a 5000 threaduri 
+
+=> 0.0158 secunde

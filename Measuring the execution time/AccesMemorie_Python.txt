@@ -1,0 +1,8 @@
+Python
+Masurarea accesului la memorie a unui sir cu 100000 intregi 
+
+Sir static
+=> 0.003163 secunde
+
+Sir dinamic
+=> 0.006291 secunde

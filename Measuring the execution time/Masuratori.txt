@@ -1,0 +1,9 @@
+Memory Allocation
+100000
+Memory Access
+100000
+Thread Creation
+5000
+Thread Context Switch
+5000
+100

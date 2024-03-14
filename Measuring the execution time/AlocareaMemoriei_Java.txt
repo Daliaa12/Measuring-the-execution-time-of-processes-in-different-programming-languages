@@ -1,0 +1,4 @@
+Java
+Masurarea alocarii unui sir cu 100000 intregi 
+
+=> 0.0137 secunde

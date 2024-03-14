@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1701776773 source:c:\users\dalia\onedrive\desktop\ssc-project.1\crearethreaduri2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<pthread.h>
+	<string.h>
+	<stdbool.h>
+

@@ -1,0 +1,5 @@
+C
+-Masurarea alocarii unui sir cu 100000 intregi -
+
+Media 0.000446 secunde
+
